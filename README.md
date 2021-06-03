@@ -16,7 +16,7 @@
 ## APPROACH 2
 
   - Dataset: MS-COCO
-  - Encoder_: InceptionV3
-  - Attention_: Bahdanau's Soft attention
-  - Decoder_: LSTM unit
+  - Encoder: InceptionV3
+  - Attention: Bahdanau's Soft attention
+  - Decoder: LSTM unit
   - Embeddings: Glove Embedding (glove6b300d)
